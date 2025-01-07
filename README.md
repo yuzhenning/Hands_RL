@@ -14,6 +14,7 @@ PC2: MacbookPro with Intel I7 CPU
 Beforce Running Code, MUST install gym 0.25.2
 pip install gym==0.25.2
 
-
+WARN: The environment Pendulum-v0 is out of date. 
+You should consider upgrading to version `v1`.
 
 
