@@ -14,6 +14,10 @@ PC2: MacbookPro with Intel I7 CPU
 Beforce Running Code, MUST install gym 0.25.2
 pip install gym==0.25.2
 
+以上命令必须执行，否则，会报错：
+CartPole 找不到 “seed” 变量
+
+
 WARN: The environment Pendulum-v0 is out of date. 
 You should consider upgrading to version `v1`.
 
