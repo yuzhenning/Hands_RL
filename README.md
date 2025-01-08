@@ -22,4 +22,9 @@ CartPole 找不到 “seed” 变量
 WARN: The environment Pendulum-v0 is out of date. 
 You should consider upgrading to version `v1`.
 
+### ch20
+pip install --upgrade gym
+need upgrade gym package
+
+
 
